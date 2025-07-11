@@ -37,15 +37,21 @@
 .but:hover{
     background-color: greenyellow;
 }
-.roboto-normal {
-  font-family: "Roboto", sans-serif;
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
 }
 
+
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 .bg
 {
     background-image: url('../B12A01-landing-launchpad/Assets/Hero-bg.png');
