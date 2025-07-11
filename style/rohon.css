@@ -4,34 +4,28 @@
 {
     background-color: rgba(245, 248, 255, 1);
 }
-.navbar
-{
-    display: flex;
-    justify-content: space-between;
-    margin:51.5px 150px;
-    align-items: center;
-
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
 }
+
 
 .logo
 {
     color: blueviolet;
     font-size: 34px;  
-    width:99 px;
-    height: 51px;
+   
 }
 
-.but{
-    width: 132px;
-    height: 48px;
-    background-color: blueviolet;
-    color: white;
-    border-radius: 10px;
-    padding: 12px 36px;
-    font-size: 16px;
-    border:none;
-    cursor: pointer;
-
+.but {
+  padding: 10px 20px;
+  background-color: #5b5bf0;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
 .but:hover{
@@ -52,6 +46,8 @@
   font-weight: <weight>;
   font-style: normal;
 }
+
+
 .bg
 {
     background-image: url('../B12A01-landing-launchpad/Assets/Hero-bg.png');
